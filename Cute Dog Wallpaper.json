@@ -1,5 +1,5 @@
 {
-	"Ads": [
+	"Adsx": [
 		{
 			"select_main_ads": "ADMOB",
 			"select_backup_ads": "APPLOVIN-M",
@@ -26,7 +26,7 @@
 			"link_redirect": "https://"
 		}
 	],
-	"More": [
+	"Morex": [
 		{
 			"id": 1,
 			"title": "judul",
@@ -34,14 +34,14 @@
 			"link": "link"
 		}
 	],
-	"Categories": [
+	"Categoriesx": [
 		{
 			"id": 1,
 			"name_category": "image",
 			"image": "https://i.pinimg.com/564x/36/5f/6a/365f6a0d4e3e27c539be1fc5f8ca2283.jpg"
 		}
 	],
-	"Data": [
+	"Datax": [
 		{
 			"id": 1,
 			"name_category": "image",
